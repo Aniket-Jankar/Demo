@@ -1,7 +1,8 @@
 hello...
 text file added
-<<<<<<< HEAD
-=======
 added one line
+<<<<<<< HEAD
 >>>>>>> df3cfd08ecd49f93faf2a8e1dc78c910009cbab7
 hi hello..
+=======
+>>>>>>> 8e623bbe236130e7e621725b778faea132c433df

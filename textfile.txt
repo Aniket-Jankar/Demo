@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello...,
+=======
+text file added
+>>>>>>> 2100c8757fecfec5788c8fd12bf0c6f20c3284da
